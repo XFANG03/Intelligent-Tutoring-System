@@ -63,5 +63,5 @@ TrackWise adopts a **three-layered architecture**:
 
 ## 📄 Documentation
 
-For detailed documentation, refer to the [project documentation](./docs/TrackWise_Project_Documentation.pdf).
+For detailed documentation, refer to the [project documentation](./TrackWise_project_documentation.pdf).
 
